@@ -37,7 +37,7 @@ export default function NavBar(props) {
           arrow
         >
           <IconButton
-            href="https://github.com/vivekarora-02/PathFinding-Visualizer"
+            href="https://github.com/Shivam0014/PathVisualizer"
             color="inherit"
           >
             <GitHub aria-hidden />
